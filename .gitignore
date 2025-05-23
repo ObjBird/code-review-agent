@@ -44,3 +44,12 @@ coverage/
 
 # 特定于Mastra的文件
 .mastra/
+
+# TypeScript 构建输出
+*.tsbuildinfo
+
+# 数据库文件
+*.db
+*.sqlite
+*.sqlite3
+local.db
